@@ -14,21 +14,21 @@ body {
     text-align: center;
     padding: 15px;
     border-radius: 15px;
-    width: 270px;
+    width: 250px;
 }
 
 .pic {
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
     border-radius: 50%;
     object-fit: cover;
-    margin-bottom: 20px;
+    margin: 20px 0;
 }
 
 h1 {
     margin: 0;
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 h3 {
@@ -39,13 +39,15 @@ h3 {
 }
 
 q {
-    font-size: 15px;
+    font-size: 10px;
     font-weight: 100;
     font-style: italic;
     color: #d1cdcd;
 }
 
 .box {
+    font-size: 12px;
+    font-weight: 200;
     background-color: #333;
     border: none;
     padding: 10px;
